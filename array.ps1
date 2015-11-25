@@ -6,5 +6,3 @@ $string = @"
 "@
 $string += "6`n5"
 $string
-Cjamge 2
-Change 3
